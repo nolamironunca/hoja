@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "hoja de firmas de empresa",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "hoja",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "hoja",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "es"
+}
