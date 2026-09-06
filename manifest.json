@@ -6,8 +6,7 @@
   "name": "hoja",
   "orientation": "any",
   "scope": "/",
-  "short_name": "hoja",
+  "short_name": "Hoja de empleado",
   "start_url": "/",
-  "theme_color": "#ffffff",
-  "lang": "es"
+  "theme_color": "#ffffff"
 }
