@@ -1,0 +1,6 @@
+{
+  "name": "Hoja de Firmas",
+  "description": "Registro mensual de jornada laboral y hoja de firmas diaria de lunes a viernes con horario establecido e impresión oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
